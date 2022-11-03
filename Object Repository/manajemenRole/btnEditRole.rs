@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='rolebaguss - rolebaguss'])[1]/following::button[1]</value>
+         <value>//button[@class='ant-btn ng-star-inserted']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f8ce1857-8a63-4d3c-8be2-d76446546833</webElementGuid>
+      <webElementGuid>475b1f67-a098-44d7-883a-bfa8c14b8e8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>nztype</name>
       <type>Main</type>
       <value>default</value>
-      <webElementGuid>da3228ac-bad0-48b6-9186-932cc90a5c62</webElementGuid>
+      <webElementGuid>d122225d-3216-4c66-a459-97a6b53946a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-btn ng-star-inserted</value>
-      <webElementGuid>f4582b63-cf81-4507-8378-b6916f9776ac</webElementGuid>
+      <webElementGuid>7855f062-08ad-4d93-ab04-e2a736ee11da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Edit</value>
-      <webElementGuid>af25cee7-534e-48d0-8140-e953e79bc661</webElementGuid>
+      <webElementGuid>cfc95a5e-d90d-41ec-8346-3f0390e78117</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-role-management-detail[@class=&quot;ng-star-inserted&quot;]/nz-card[@class=&quot;kt-mb-20 ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-head ng-star-inserted&quot;]/div[@class=&quot;ant-card-head-wrapper&quot;]/div[@class=&quot;ant-card-extra ng-star-inserted&quot;]/button[@class=&quot;ant-btn ng-star-inserted&quot;]</value>
-      <webElementGuid>3f1db586-5223-4ad3-bb76-6f1076954cbf</webElementGuid>
+      <webElementGuid>d988e5bf-a49f-4fa7-b3e8-0100811e978c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='rolebaguss - rolebaguss'])[1]/following::button[1]</value>
-      <webElementGuid>23a1e5cb-26c8-4181-b6eb-f68b48cc97a6</webElementGuid>
+      <webElementGuid>4b5f8fff-ca0a-4b68-b737-6fb91ecdd8df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/following::button[1]</value>
-      <webElementGuid>f7cd65cc-f683-4fd6-8127-a9a19ff78fc0</webElementGuid>
+      <webElementGuid>f94612b8-6bbf-42e1-bb81-cb2dac128a7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/preceding::button[1]</value>
-      <webElementGuid>d0f7afaa-a285-4024-9a9c-4e281a8440ea</webElementGuid>
+      <webElementGuid>796b671d-6334-4c7a-b365-aa01393a5027</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>4e3cfd5e-d25f-4cc7-ab9f-a05f73f0b296</webElementGuid>
+      <webElementGuid>98cbdaa9-ed12-468b-aeea-df60896794ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Edit' or . = 'Edit')]</value>
-      <webElementGuid>c3987420-020b-4114-924a-5b2fd83dabd8</webElementGuid>
+      <webElementGuid>037c4db4-c713-4ae9-a94d-d7bc103bfbc8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

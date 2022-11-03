@@ -1,0 +1,7 @@
+{"testCaseName":"Test Cases/login/loginFailedDidntFillPassword","testCaseId":"Test Cases/login/loginFailedDidntFillPassword","iterationVariableName":""}
+{"testCaseName":"Test Cases/login/loginFailedDidntFillUsername","testCaseId":"Test Cases/login/loginFailedDidntFillUsername","iterationVariableName":""}
+{"testCaseName":"Test Cases/login/loginFailedDidntFillUsernameAndPassword","testCaseId":"Test Cases/login/loginFailedDidntFillUsernameAndPassword","iterationVariableName":""}
+{"testCaseName":"Test Cases/login/loginFailedWrongPassword","testCaseId":"Test Cases/login/loginFailedWrongPassword","iterationVariableName":""}
+{"testCaseName":"Test Cases/login/loginFailedWrongUsername","testCaseId":"Test Cases/login/loginFailedWrongUsername","iterationVariableName":""}
+{"testCaseName":"Test Cases/login/loginFailedWrongUsernameAndPassword","testCaseId":"Test Cases/login/loginFailedWrongUsernameAndPassword","iterationVariableName":""}
+{"testCaseName":"Test Cases/login/loginSuccess","testCaseId":"Test Cases/login/loginSuccess","iterationVariableName":""}

@@ -31,7 +31,7 @@ WebUI.waitForElementClickable(findTestObject('masterCabang/btnCollapseMasterData
 
 WebUI.click(findTestObject('manajemenRole/btnManajemenRole'))
 
-WebUI.setText(findTestObject('manajemenRole/fieldSearchRole'), 'rolebaguss')
+WebUI.setText(findTestObject('manajemenRole/fieldSearchRole'), 'bagRole')
 
 WebUI.click(findTestObject('manajemenRole/btnSearchRole'))
 

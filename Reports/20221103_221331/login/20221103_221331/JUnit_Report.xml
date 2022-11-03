@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="login" time="83.497" tests="7" failures="0" errors="0">
+   <testsuite name="login" tests="7" failures="0" errors="0" time="83.497" skipped="0" timestamp="2022-11-03 22:13:33" hostname="asd_b - 118224-001L-IND.adl.local" id="Test Suites/login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\asd_b\\OneDrive\\Documents\\GitHub\\automation-radyalabs-web\\Reports\\20221103_221331\\login\\20221103_221331"/>
+         <property name="logFiles" value="C:\\Users\\asd_b\\OneDrive\\Documents\\GitHub\\automation-radyalabs-web\\Reports\\20221103_221331\\login\\20221103_221331\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="asd_b - 118224-001L-IND.adl.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Chrome 107.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.11"/>
+         <property name="sessionId" value="8d0213ed61a2694209900fc28a595754"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/login/loginFailedDidntFillPassword" time="13.417" classname="Test Cases/login/loginFailedDidntFillPassword" status="PASSED">
+         <system-out><![CDATA[2022-11-03 22:13:33 - [TEST_CASE][PASSED] - Test Cases/login/loginFailedDidntFillPassword: Test Cases/login/loginFailedDidntFillPassword
+
+2022-11-03 22:13:34 - [TEST_STEP][PASSED] - openBrowser("http://staging.radyalabs.id:7008/"): Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:13:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-03 22:13:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-03 22:13:41 - [MESSAGE][PASSED] - Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:13:41 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-11-03 22:13:41 - [MESSAGE][PASSED] - Current window maximized
+
+2022-11-03 22:13:41 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldUsername"), "sa"): Text 'sa' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:13:42 - [MESSAGE][PASSED] - Text 'sa' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:13:42 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldPassword"), ""): Text '' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:13:42 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:13:42 - [TEST_STEP][PASSED] - click(findTestObject("loginElement/btnMasuk")): Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:13:43 - [MESSAGE][PASSED] - Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:13:43 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-11-03 22:13:46 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-11-03 22:13:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-11-03 22:13:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/login/loginFailedDidntFillUsername" time="10.202" classname="Test Cases/login/loginFailedDidntFillUsername" status="PASSED">
+         <system-out><![CDATA[2022-11-03 22:13:47 - [TEST_CASE][PASSED] - Test Cases/login/loginFailedDidntFillUsername: Test Cases/login/loginFailedDidntFillUsername
+
+2022-11-03 22:13:47 - [TEST_STEP][PASSED] - openBrowser("http://staging.radyalabs.id:7008/"): Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:13:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-03 22:13:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-03 22:13:51 - [MESSAGE][PASSED] - Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:13:51 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-11-03 22:13:51 - [MESSAGE][PASSED] - Current window maximized
+
+2022-11-03 22:13:51 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldUsername"), ""): Text '' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:13:52 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:13:52 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldPassword"), "qwerty@123"): Text 'qwerty@123' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:13:53 - [MESSAGE][PASSED] - Text 'qwerty@123' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:13:53 - [TEST_STEP][PASSED] - click(findTestObject("loginElement/btnMasuk")): Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:13:53 - [MESSAGE][PASSED] - Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:13:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-11-03 22:13:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-11-03 22:13:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-11-03 22:13:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/login/loginFailedDidntFillUsernameAndPassword" time="9.388" classname="Test Cases/login/loginFailedDidntFillUsernameAndPassword" status="PASSED">
+         <system-out><![CDATA[2022-11-03 22:13:57 - [TEST_CASE][PASSED] - Test Cases/login/loginFailedDidntFillUsernameAndPassword: Test Cases/login/loginFailedDidntFillUsernameAndPassword
+
+2022-11-03 22:13:57 - [TEST_STEP][PASSED] - openBrowser("http://staging.radyalabs.id:7008/"): Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:13:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-03 22:13:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-03 22:14:01 - [MESSAGE][PASSED] - Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:14:01 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-11-03 22:14:01 - [MESSAGE][PASSED] - Current window maximized
+
+2022-11-03 22:14:01 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldUsername"), ""): Text '' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:14:02 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:14:02 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldPassword"), ""): Text '' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:14:02 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:14:02 - [TEST_STEP][PASSED] - click(findTestObject("loginElement/btnMasuk")): Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:14:03 - [MESSAGE][PASSED] - Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:14:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-11-03 22:14:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-11-03 22:14:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-11-03 22:14:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/login/loginFailedWrongPassword" time="9.759" classname="Test Cases/login/loginFailedWrongPassword" status="PASSED">
+         <system-out><![CDATA[2022-11-03 22:14:07 - [TEST_CASE][PASSED] - Test Cases/login/loginFailedWrongPassword: Test Cases/login/loginFailedWrongPassword
+
+2022-11-03 22:14:07 - [TEST_STEP][PASSED] - openBrowser("http://staging.radyalabs.id:7008/"): Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:14:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-03 22:14:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-03 22:14:10 - [MESSAGE][PASSED] - Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:14:10 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-11-03 22:14:11 - [MESSAGE][PASSED] - Current window maximized
+
+2022-11-03 22:14:11 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldUsername"), "sa"): Text 'sa' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:14:11 - [MESSAGE][PASSED] - Text 'sa' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:14:11 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldPassword"), "qwerty@1233333333"): Text 'qwerty@1233333333' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:14:12 - [MESSAGE][PASSED] - Text 'qwerty@1233333333' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:14:12 - [TEST_STEP][PASSED] - click(findTestObject("loginElement/btnMasuk")): Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:14:12 - [MESSAGE][PASSED] - Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:14:12 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-11-03 22:14:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-11-03 22:14:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-11-03 22:14:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/login/loginFailedWrongUsername" time="14.895" classname="Test Cases/login/loginFailedWrongUsername" status="PASSED">
+         <system-out><![CDATA[2022-11-03 22:14:16 - [TEST_CASE][PASSED] - Test Cases/login/loginFailedWrongUsername: Test Cases/login/loginFailedWrongUsername
+
+2022-11-03 22:14:17 - [TEST_STEP][PASSED] - openBrowser("http://staging.radyalabs.id:7008/"): Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:14:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-03 22:14:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-03 22:14:25 - [MESSAGE][PASSED] - Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:14:25 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-11-03 22:14:25 - [MESSAGE][PASSED] - Current window maximized
+
+2022-11-03 22:14:25 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldUsername"), "adsdsa"): Text 'adsdsa' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:14:26 - [MESSAGE][PASSED] - Text 'adsdsa' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:14:26 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldPassword"), "qwerty@123"): Text 'qwerty@123' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:14:27 - [MESSAGE][PASSED] - Text 'qwerty@123' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:14:27 - [TEST_STEP][PASSED] - click(findTestObject("loginElement/btnMasuk")): Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:14:27 - [MESSAGE][PASSED] - Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:14:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-11-03 22:14:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-11-03 22:14:30 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-11-03 22:14:31 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/login/loginFailedWrongUsernameAndPassword" time="9.327" classname="Test Cases/login/loginFailedWrongUsernameAndPassword" status="PASSED">
+         <system-out><![CDATA[2022-11-03 22:14:31 - [TEST_CASE][PASSED] - Test Cases/login/loginFailedWrongUsernameAndPassword: Test Cases/login/loginFailedWrongUsernameAndPassword
+
+2022-11-03 22:14:31 - [TEST_STEP][PASSED] - openBrowser("http://staging.radyalabs.id:7008/"): Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:14:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-03 22:14:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-03 22:14:34 - [MESSAGE][PASSED] - Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:14:34 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-11-03 22:14:35 - [MESSAGE][PASSED] - Current window maximized
+
+2022-11-03 22:14:35 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldUsername"), "adsdsa"): Text 'adsdsa' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:14:35 - [MESSAGE][PASSED] - Text 'adsdsa' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:14:35 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldPassword"), "aa12312"): Text 'aa12312' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:14:36 - [MESSAGE][PASSED] - Text 'aa12312' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:14:36 - [TEST_STEP][PASSED] - click(findTestObject("loginElement/btnMasuk")): Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:14:37 - [MESSAGE][PASSED] - Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:14:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-11-03 22:14:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-11-03 22:14:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-11-03 22:14:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/login/loginSuccess" time="16.205" classname="Test Cases/login/loginSuccess" status="PASSED">
+         <system-out><![CDATA[2022-11-03 22:14:40 - [TEST_CASE][PASSED] - Test Cases/login/loginSuccess: Test Cases/login/loginSuccess
+
+2022-11-03 22:14:41 - [TEST_STEP][PASSED] - openBrowser("http://staging.radyalabs.id:7008/"): Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:14:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-03 22:14:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-03 22:14:45 - [MESSAGE][PASSED] - Browser is opened with url: 'http://staging.radyalabs.id:7008/'
+
+2022-11-03 22:14:45 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-11-03 22:14:45 - [MESSAGE][PASSED] - Current window maximized
+
+2022-11-03 22:14:45 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldUsername"), "sa"): Text 'sa' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:14:46 - [MESSAGE][PASSED] - Text 'sa' is set on object 'Object Repository/loginElement/fieldUsername'
+
+2022-11-03 22:14:46 - [TEST_STEP][PASSED] - setText(findTestObject("loginElement/fieldPassword"), "qwerty@123"): Text 'qwerty@123' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:14:47 - [MESSAGE][PASSED] - Text 'qwerty@123' is set on object 'Object Repository/loginElement/fieldPassword'
+
+2022-11-03 22:14:47 - [TEST_STEP][PASSED] - click(findTestObject("loginElement/btnMasuk")): Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:14:47 - [MESSAGE][PASSED] - Object: 'Object Repository/loginElement/btnMasuk' is clicked on
+
+2022-11-03 22:14:47 - [TEST_STEP][PASSED] - waitForElementClickable(findTestObject("masterCabang/btnCollapseMasterData"), 0): Object 'Object Repository/masterCabang/btnCollapseMasterData' is clickable
+
+2022-11-03 22:14:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-11-03 22:14:53 - [MESSAGE][PASSED] - Object 'Object Repository/masterCabang/btnCollapseMasterData' is clickable
+
+2022-11-03 22:14:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-11-03 22:14:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-11-03 22:14:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-11-03 22:14:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-11-03 22:13:33 - [TEST_SUITE][PASSED] - login: Test Cases/login/loginSuccess]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

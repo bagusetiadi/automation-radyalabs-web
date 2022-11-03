@@ -49,10 +49,6 @@ WebUI.click(findTestObject('manajemenRole/checkNieBatch'))
 
 WebUI.click(findTestObject('manajemenRole/checkSelisih'))
 
-WebUI.click(findTestObject('manajemenRole/checkMasterData'))
-
-WebUI.click(findTestObject('manajemenRole/checkDashboard'))
-
 WebUI.click(findTestObject('manajemenRole/btnSimpanRole'))
 
 WebUI.delay(3)

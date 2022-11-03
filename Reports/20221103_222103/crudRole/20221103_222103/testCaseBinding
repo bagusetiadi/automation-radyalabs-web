@@ -1,0 +1,16 @@
+{"testCaseName":"Test Cases/crudRole/failedCreateRoleWithoutFillIdRole","testCaseId":"Test Cases/crudRole/failedCreateRoleWithoutFillIdRole","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/failedCreateRoleWithoutFillIdRoleAndNamaRole","testCaseId":"Test Cases/crudRole/failedCreateRoleWithoutFillIdRoleAndNamaRole","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/failedCreateRoleWithoutFillNamaRole","testCaseId":"Test Cases/crudRole/failedCreateRoleWithoutFillNamaRole","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/successCreateAll","testCaseId":"Test Cases/crudRole/successCreateAll","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/testData","testCaseId":"Test Cases/crudRole/testData","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/editRole","testCaseId":"Test Cases/crudRole/editRole","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/hapusRole","testCaseId":"Test Cases/crudRole/hapusRole","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/succeessCreateNIE","testCaseId":"Test Cases/crudRole/succeessCreateNIE","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/successCreateAudit","testCaseId":"Test Cases/crudRole/successCreateAudit","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/successCreateBatchCorrection","testCaseId":"Test Cases/crudRole/successCreateBatchCorrection","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/successCreateDashboard","testCaseId":"Test Cases/crudRole/successCreateDashboard","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/successCreateEmptyRole","testCaseId":"Test Cases/crudRole/successCreateEmptyRole","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/successCreateEquipment","testCaseId":"Test Cases/crudRole/successCreateEquipment","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/successCreateFacility","testCaseId":"Test Cases/crudRole/successCreateFacility","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/successCreateMasterData","testCaseId":"Test Cases/crudRole/successCreateMasterData","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudRole/successCreateSelisih","testCaseId":"Test Cases/crudRole/successCreateSelisih","iterationVariableName":""}

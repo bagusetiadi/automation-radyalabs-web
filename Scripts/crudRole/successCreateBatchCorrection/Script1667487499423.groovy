@@ -33,9 +33,9 @@ WebUI.click(findTestObject('manajemenRole/btnManajemenRole'))
 
 WebUI.click(findTestObject('manajemenRole/btnTambahRole'))
 
-WebUI.setText(findTestObject('manajemenRole/fieldIdRole'), 'bagusBatchCorrection')
+WebUI.setText(findTestObject('manajemenRole/fieldIdRole'), 'bagBatCo')
 
-WebUI.setText(findTestObject('manajemenRole/fieldNamaRole'), 'bagusBatchCorrection')
+WebUI.setText(findTestObject('manajemenRole/fieldNamaRole'), 'bagBatCo')
 
 WebUI.click(findTestObject('manajemenRole/checkBatchCorrection'))
 

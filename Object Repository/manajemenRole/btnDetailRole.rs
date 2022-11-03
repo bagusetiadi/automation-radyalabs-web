@@ -4,13 +4,23 @@
    <name>btnDetailRole</name>
    <tag></tag>
    <elementGuidId>57d1ca0e-d343-4d21-9163-4ca7eccd344b</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='rolebaguss'])[2]/following::button[1]</value>
+         <value>//tbody/tr[1]/td[3]/button[1]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Detail ' or . = ' Detail ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +31,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d1dda32a-c6a7-49dd-a940-815608aecb71</webElementGuid>
+      <webElementGuid>e8056cbe-20a6-42e3-b41e-36c406f0e803</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +39,7 @@
       <name>nztype</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>121fa1cb-570b-4449-94c3-1b968931ffbf</webElementGuid>
+      <webElementGuid>7c93a228-16bd-44be-a2e2-fbae73ea16ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +47,7 @@
       <name>nzsize</name>
       <type>Main</type>
       <value>small</value>
-      <webElementGuid>9a913e5f-e5d8-4556-8287-5575585b25db</webElementGuid>
+      <webElementGuid>57e18935-772e-4ab9-9015-6ff6452a47c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-btn ant-btn-primary ant-btn-sm</value>
-      <webElementGuid>783853c5-4f9d-4426-880c-4e9703eec066</webElementGuid>
+      <webElementGuid>eb64583f-8e95-4675-877f-d52eeeb881e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Detail </value>
-      <webElementGuid>08a106a9-a68f-4d9e-b2bc-2aa7e3f53fda</webElementGuid>
+      <webElementGuid>686b3ac9-0463-4f20-9c47-1c017c85fb19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-role-management-index[@class=&quot;ng-star-inserted&quot;]/nz-table[@class=&quot;ant-table-wrapper&quot;]/nz-spin[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container ng-star-inserted&quot;]/div[@class=&quot;ant-table&quot;]/nz-table-inner-default[@class=&quot;ant-table-container ng-star-inserted&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody ng-star-inserted&quot;]/tr[@class=&quot;ant-table-row ng-star-inserted&quot;]/td[@class=&quot;ant-table-cell&quot;]/button[@class=&quot;ant-btn ant-btn-primary ant-btn-sm&quot;]</value>
-      <webElementGuid>ce79d85b-6331-4c5d-8a26-3e6c85f221dc</webElementGuid>
+      <webElementGuid>f84b8916-cc48-4fe0-a337-6e7d2d9ead59</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='rolebaguss'])[2]/following::button[1]</value>
-      <webElementGuid>d2133eee-58f4-498b-be3a-e774414e1d76</webElementGuid>
+      <webElementGuid>aa6c9de2-2097-4481-b6d2-375a2580cddd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='rolebaguss'])[1]/following::button[1]</value>
-      <webElementGuid>55858c07-a86b-44e0-b0d5-e82e0324afbc</webElementGuid>
+      <webElementGuid>6fc798a8-2558-4184-b96e-457dbbd33708</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logistic Operation Portal'])[1]/preceding::button[1]</value>
-      <webElementGuid>a384a152-1418-49af-bf46-902f709e381e</webElementGuid>
+      <webElementGuid>919b3db6-4671-41b7-9738-660183c9a54e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[3]/button</value>
-      <webElementGuid>a479e4a0-83be-4ddc-aea2-09ddf3dcf402</webElementGuid>
+      <webElementGuid>fe0074ce-cf9e-4b16-b0a2-ee0dbc9ad3e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Detail ' or . = ' Detail ')]</value>
-      <webElementGuid>cd7244b6-ea0b-4d05-b0e0-0922b05fa817</webElementGuid>
+      <webElementGuid>7e320f89-b1ab-40b8-8882-9d8ba045ec11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

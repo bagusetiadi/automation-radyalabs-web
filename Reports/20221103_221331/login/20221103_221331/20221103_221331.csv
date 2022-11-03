@@ -1,0 +1,66 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+login,Chrome 107.0.0.0,,,2022-11-03 22:13:33,2022-11-03 22:14:57,1m - 23.497s,PASSED
+,,,,,,,
+Test Cases/login/loginFailedDidntFillPassword,Chrome 107.0.0.0,,,2022-11-03 22:13:33,2022-11-03 22:13:47,13.417s,PASSED
+"openBrowser(""http://staging.radyalabs.id:7008/"")",Chrome 107.0.0.0,,,2022-11-03 22:13:34,2022-11-03 22:13:41,6.848s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-03 22:13:41,2022-11-03 22:13:41,0.177s,PASSED
+"setText(findTestObject(""loginElement/fieldUsername""), ""sa"")",Chrome 107.0.0.0,,,2022-11-03 22:13:41,2022-11-03 22:13:42,0.778s,PASSED
+"setText(findTestObject(""loginElement/fieldPassword""), """")",Chrome 107.0.0.0,,,2022-11-03 22:13:42,2022-11-03 22:13:42,0.785s,PASSED
+"click(findTestObject(""loginElement/btnMasuk""))",Chrome 107.0.0.0,,,2022-11-03 22:13:42,2022-11-03 22:13:43,0.507s,PASSED
+delay(3),Chrome 107.0.0.0,,,2022-11-03 22:13:43,2022-11-03 22:13:46,3.048s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-03 22:13:46,2022-11-03 22:13:47,0.925s,PASSED
+,,,,,,,
+Test Cases/login/loginFailedDidntFillUsername,Chrome 107.0.0.0,,,2022-11-03 22:13:47,2022-11-03 22:13:57,10.202s,PASSED
+"openBrowser(""http://staging.radyalabs.id:7008/"")",Chrome 107.0.0.0,,,2022-11-03 22:13:47,2022-11-03 22:13:51,3.773s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-03 22:13:51,2022-11-03 22:13:51,0.136s,PASSED
+"setText(findTestObject(""loginElement/fieldUsername""), """")",Chrome 107.0.0.0,,,2022-11-03 22:13:51,2022-11-03 22:13:52,0.946s,PASSED
+"setText(findTestObject(""loginElement/fieldPassword""), ""qwerty@123"")",Chrome 107.0.0.0,,,2022-11-03 22:13:52,2022-11-03 22:13:53,0.797s,PASSED
+"click(findTestObject(""loginElement/btnMasuk""))",Chrome 107.0.0.0,,,2022-11-03 22:13:53,2022-11-03 22:13:53,0.372s,PASSED
+delay(3),Chrome 107.0.0.0,,,2022-11-03 22:13:53,2022-11-03 22:13:56,3.019s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-03 22:13:56,2022-11-03 22:13:57,0.879s,PASSED
+,,,,,,,
+Test Cases/login/loginFailedDidntFillUsernameAndPassword,Chrome 107.0.0.0,,,2022-11-03 22:13:57,2022-11-03 22:14:07,9.388s,PASSED
+"openBrowser(""http://staging.radyalabs.id:7008/"")",Chrome 107.0.0.0,,,2022-11-03 22:13:57,2022-11-03 22:14:01,3.270s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-03 22:14:01,2022-11-03 22:14:01,0.190s,PASSED
+"setText(findTestObject(""loginElement/fieldUsername""), """")",Chrome 107.0.0.0,,,2022-11-03 22:14:01,2022-11-03 22:14:02,0.793s,PASSED
+"setText(findTestObject(""loginElement/fieldPassword""), """")",Chrome 107.0.0.0,,,2022-11-03 22:14:02,2022-11-03 22:14:02,0.663s,PASSED
+"click(findTestObject(""loginElement/btnMasuk""))",Chrome 107.0.0.0,,,2022-11-03 22:14:02,2022-11-03 22:14:03,0.350s,PASSED
+delay(3),Chrome 107.0.0.0,,,2022-11-03 22:14:03,2022-11-03 22:14:06,3.003s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-03 22:14:06,2022-11-03 22:14:07,0.867s,PASSED
+,,,,,,,
+Test Cases/login/loginFailedWrongPassword,Chrome 107.0.0.0,,,2022-11-03 22:14:07,2022-11-03 22:14:16,9.759s,PASSED
+"openBrowser(""http://staging.radyalabs.id:7008/"")",Chrome 107.0.0.0,,,2022-11-03 22:14:07,2022-11-03 22:14:10,3.694s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-03 22:14:10,2022-11-03 22:14:11,0.139s,PASSED
+"setText(findTestObject(""loginElement/fieldUsername""), ""sa"")",Chrome 107.0.0.0,,,2022-11-03 22:14:11,2022-11-03 22:14:11,0.708s,PASSED
+"setText(findTestObject(""loginElement/fieldPassword""), ""qwerty@1233333333"")",Chrome 107.0.0.0,,,2022-11-03 22:14:11,2022-11-03 22:14:12,0.687s,PASSED
+"click(findTestObject(""loginElement/btnMasuk""))",Chrome 107.0.0.0,,,2022-11-03 22:14:12,2022-11-03 22:14:12,0.392s,PASSED
+delay(3),Chrome 107.0.0.0,,,2022-11-03 22:14:12,2022-11-03 22:14:15,3.003s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-03 22:14:15,2022-11-03 22:14:16,0.870s,PASSED
+,,,,,,,
+Test Cases/login/loginFailedWrongUsername,Chrome 107.0.0.0,,,2022-11-03 22:14:16,2022-11-03 22:14:31,14.895s,PASSED
+"openBrowser(""http://staging.radyalabs.id:7008/"")",Chrome 107.0.0.0,,,2022-11-03 22:14:17,2022-11-03 22:14:25,8.813s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-03 22:14:25,2022-11-03 22:14:25,0.148s,PASSED
+"setText(findTestObject(""loginElement/fieldUsername""), ""adsdsa"")",Chrome 107.0.0.0,,,2022-11-03 22:14:25,2022-11-03 22:14:26,0.702s,PASSED
+"setText(findTestObject(""loginElement/fieldPassword""), ""qwerty@123"")",Chrome 107.0.0.0,,,2022-11-03 22:14:26,2022-11-03 22:14:27,0.703s,PASSED
+"click(findTestObject(""loginElement/btnMasuk""))",Chrome 107.0.0.0,,,2022-11-03 22:14:27,2022-11-03 22:14:27,0.390s,PASSED
+delay(3),Chrome 107.0.0.0,,,2022-11-03 22:14:27,2022-11-03 22:14:30,3.017s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-03 22:14:30,2022-11-03 22:14:31,0.884s,PASSED
+,,,,,,,
+Test Cases/login/loginFailedWrongUsernameAndPassword,Chrome 107.0.0.0,,,2022-11-03 22:14:31,2022-11-03 22:14:40,9.327s,PASSED
+"openBrowser(""http://staging.radyalabs.id:7008/"")",Chrome 107.0.0.0,,,2022-11-03 22:14:31,2022-11-03 22:14:34,2.997s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-03 22:14:34,2022-11-03 22:14:35,0.146s,PASSED
+"setText(findTestObject(""loginElement/fieldUsername""), ""adsdsa"")",Chrome 107.0.0.0,,,2022-11-03 22:14:35,2022-11-03 22:14:35,0.848s,PASSED
+"setText(findTestObject(""loginElement/fieldPassword""), ""aa12312"")",Chrome 107.0.0.0,,,2022-11-03 22:14:35,2022-11-03 22:14:36,0.787s,PASSED
+"click(findTestObject(""loginElement/btnMasuk""))",Chrome 107.0.0.0,,,2022-11-03 22:14:36,2022-11-03 22:14:37,0.351s,PASSED
+delay(3),Chrome 107.0.0.0,,,2022-11-03 22:14:37,2022-11-03 22:14:40,3.006s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-03 22:14:40,2022-11-03 22:14:40,0.937s,PASSED
+,,,,,,,
+Test Cases/login/loginSuccess,Chrome 107.0.0.0,,,2022-11-03 22:14:40,2022-11-03 22:14:57,16.205s,PASSED
+"openBrowser(""http://staging.radyalabs.id:7008/"")",Chrome 107.0.0.0,,,2022-11-03 22:14:41,2022-11-03 22:14:45,3.971s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-03 22:14:45,2022-11-03 22:14:45,0.139s,PASSED
+"setText(findTestObject(""loginElement/fieldUsername""), ""sa"")",Chrome 107.0.0.0,,,2022-11-03 22:14:45,2022-11-03 22:14:46,0.924s,PASSED
+"setText(findTestObject(""loginElement/fieldPassword""), ""qwerty@123"")",Chrome 107.0.0.0,,,2022-11-03 22:14:46,2022-11-03 22:14:47,0.702s,PASSED
+"click(findTestObject(""loginElement/btnMasuk""))",Chrome 107.0.0.0,,,2022-11-03 22:14:47,2022-11-03 22:14:47,0.376s,PASSED
+"waitForElementClickable(findTestObject(""masterCabang/btnCollapseMasterData""), 0)",Chrome 107.0.0.0,,,2022-11-03 22:14:47,2022-11-03 22:14:53,5.891s,PASSED
+delay(3),Chrome 107.0.0.0,,,2022-11-03 22:14:53,2022-11-03 22:14:56,3.004s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-03 22:14:56,2022-11-03 22:14:57,0.899s,PASSED

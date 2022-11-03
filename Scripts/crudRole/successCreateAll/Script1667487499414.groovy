@@ -33,9 +33,9 @@ WebUI.click(findTestObject('manajemenRole/btnManajemenRole'))
 
 WebUI.click(findTestObject('manajemenRole/btnTambahRole'))
 
-WebUI.setText(findTestObject('manajemenRole/fieldIdRole'), 'bagusCreateAll')
+WebUI.setText(findTestObject('manajemenRole/fieldIdRole'), 'bagAll')
 
-WebUI.setText(findTestObject('manajemenRole/fieldNamaRole'), 'bagusCreateAll')
+WebUI.setText(findTestObject('manajemenRole/fieldNamaRole'), 'bagAll')
 
 WebUI.click(findTestObject('manajemenRole/checkAudit'))
 
@@ -48,10 +48,6 @@ WebUI.click(findTestObject('manajemenRole/checkFacility'))
 WebUI.click(findTestObject('manajemenRole/checkNieBatch'))
 
 WebUI.click(findTestObject('manajemenRole/checkSelisih'))
-
-WebUI.click(findTestObject('manajemenRole/checkMasterData'))
-
-WebUI.click(findTestObject('manajemenRole/checkDashboard'))
 
 WebUI.click(findTestObject('manajemenRole/btnSimpanRole'))
 

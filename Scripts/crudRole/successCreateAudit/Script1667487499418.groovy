@@ -33,9 +33,9 @@ WebUI.click(findTestObject('manajemenRole/btnManajemenRole'))
 
 WebUI.click(findTestObject('manajemenRole/btnTambahRole'))
 
-WebUI.setText(findTestObject('manajemenRole/fieldIdRole'), 'bagusCreateAudit')
+WebUI.setText(findTestObject('manajemenRole/fieldIdRole'), 'bagAud')
 
-WebUI.setText(findTestObject('manajemenRole/fieldNamaRole'), 'bagusCreateAudit')
+WebUI.setText(findTestObject('manajemenRole/fieldNamaRole'), 'bagAud')
 
 WebUI.click(findTestObject('manajemenRole/checkAudit'))
 

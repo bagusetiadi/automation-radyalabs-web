@@ -1,0 +1,11 @@
+{"testCaseName":"Test Cases/crudMasterCabang/failedDidntFillKodeCabang","testCaseId":"Test Cases/crudMasterCabang/failedDidntFillKodeCabang","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudMasterCabang/failedWrongEmailFormat","testCaseId":"Test Cases/crudMasterCabang/failedWrongEmailFormat","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudMasterCabang/failedDidntFillNamaCabang","testCaseId":"Test Cases/crudMasterCabang/failedDidntFillNamaCabang","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudMasterCabang/failedDidntFillNamaCabangAndKodeCabang","testCaseId":"Test Cases/crudMasterCabang/failedDidntFillNamaCabangAndKodeCabang","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudMasterCabang/success","testCaseId":"Test Cases/crudMasterCabang/success","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudMasterCabang/successCreateCabangWithoutEmail","testCaseId":"Test Cases/crudMasterCabang/successCreateCabangWithoutEmail","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudMasterCabang/successCreateCabangWithoutPenanggungJawab","testCaseId":"Test Cases/crudMasterCabang/successCreateCabangWithoutPenanggungJawab","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudMasterCabang/successCreateCabangWithoutPenanggungJawabAndEmail","testCaseId":"Test Cases/crudMasterCabang/successCreateCabangWithoutPenanggungJawabAndEmail","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudMasterCabang/testData","testCaseId":"Test Cases/crudMasterCabang/testData","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudMasterCabang/editExistingData","testCaseId":"Test Cases/crudMasterCabang/editExistingData","iterationVariableName":""}
+{"testCaseName":"Test Cases/crudMasterCabang/deleteData","testCaseId":"Test Cases/crudMasterCabang/deleteData","iterationVariableName":""}
