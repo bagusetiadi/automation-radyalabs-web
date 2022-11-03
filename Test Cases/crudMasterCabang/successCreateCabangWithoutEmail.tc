@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>successCreateCabangWithoutEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c715b28d-a188-4e10-b904-b84ceb709e07</testCaseGuid>
+</TestCaseEntity>

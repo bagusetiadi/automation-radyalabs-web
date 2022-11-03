@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnOkSimpanRole</name>
+   <tag></tag>
+   <elementGuidId>85607150-7efd-42e9-aaa5-4b59288b5c77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-btn-primary</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'OK' or . = 'OK')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-19']/div/div/div[2]/div/div/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>033b47ac-8366-4bf0-b7a2-3a0f8c9c8f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c172-239 ant-btn ant-btn-primary ant-btn-sm</value>
+      <webElementGuid>94e3751f-b10a-4507-995e-4b0a210ef9cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>8f13b68e-76a1-4fef-8e29-9a98787116fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-19&quot;)/div[@class=&quot;ant-popover ng-tns-c172-239 ng-trigger ng-trigger-zoomBigMotion ng-star-inserted null ant-popover-placement-left&quot;]/div[@class=&quot;ant-popover-content ng-tns-c172-239&quot;]/div[@class=&quot;ant-popover-inner ng-tns-c172-239&quot;]/div[@class=&quot;ng-tns-c172-239&quot;]/div[@class=&quot;ant-popover-inner-content ng-tns-c172-239&quot;]/div[@class=&quot;ant-popover-buttons ng-tns-c172-239&quot;]/button[@class=&quot;ng-tns-c172-239 ant-btn ant-btn-primary ant-btn-sm&quot;]</value>
+      <webElementGuid>bcb581d7-5432-46e9-881e-61990ebc5005</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-19']/div/div/div[2]/div/div/div[2]/button[2]</value>
+      <webElementGuid>3c05168a-9ff7-41d8-b15c-c85953fa417a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>1ff77ed2-914e-40fe-bd8e-7b5512c969f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda yakin akan menghapus role ini?'])[1]/following::button[2]</value>
+      <webElementGuid>35026fec-0eb3-465c-9bcb-5e0703a042e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>d660bb33-70da-4d4d-a3b3-f1f5f77bf797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/button[2]</value>
+      <webElementGuid>c6dac6c7-8aaf-4a45-9a1c-7197876bed92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>7ca0ad3b-6a3d-4c4e-b6a3-5e5585c4ee8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

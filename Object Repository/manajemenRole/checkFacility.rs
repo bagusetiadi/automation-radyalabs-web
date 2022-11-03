@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkFacility</name>
+   <tag></tag>
+   <elementGuidId>841c5948-32c5-4621-9256-a47ea1b0a04a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[44]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2a5940ca-a262-494e-9963-17b958e55f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>ebfeb573-e476-4193-bf6a-cb4a817593b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-input ng-valid ng-dirty ng-touched</value>
+      <webElementGuid>a0e46269-2a85-485d-991d-3b946a7a1710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-role-management-form[@class=&quot;ng-star-inserted&quot;]/nz-spin[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container ng-star-inserted&quot;]/nz-card[@class=&quot;kt-mt-10 kt-mb-20 ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-row ng-star-inserted&quot;]/div[@class=&quot;kt-mb-30 pr-10 ant-col ant-col-24 ant-col-md-12 ant-col-lg-12 ng-star-inserted&quot;]/div[@class=&quot;kt-mb-20 ant-row&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/label[@class=&quot;ant-checkbox-wrapper ng-valid ng-dirty ng-touched&quot;]/span[@class=&quot;ant-checkbox&quot;]/input[@class=&quot;ant-checkbox-input ng-valid ng-dirty ng-touched&quot;]</value>
+      <webElementGuid>06d70e75-0999-434e-937c-6f15588d22dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[44]</value>
+      <webElementGuid>6ed4944b-307c-4032-b11e-6f8217cc8f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/label/span/input</value>
+      <webElementGuid>71d534df-e29a-49af-8da8-c96eaf47cc3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>be316b43-7067-476d-96f7-80833d247154</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

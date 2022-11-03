@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>failedCreateRoleWithoutFillIdRole</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c04d2f4b-e14e-4fef-b02d-1533994aea45</testCaseGuid>
+</TestCaseEntity>

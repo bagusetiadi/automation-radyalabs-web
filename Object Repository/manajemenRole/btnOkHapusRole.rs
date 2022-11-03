@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnOkHapusRole</name>
+   <tag></tag>
+   <elementGuidId>ad66608c-189c-4111-bff8-bacfcdfc3235</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6563400b-5b0e-4b23-b997-2d9fa4af4b07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nztooltiptitle</name>
+      <type>Main</type>
+      <value>Hapus role</value>
+      <webElementGuid>bfc97003-6aed-4cc1-95ad-c86caa508fc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nztooltipplacement</name>
+      <type>Main</type>
+      <value>topRight</value>
+      <webElementGuid>cc94fab7-0774-4a4b-9e14-e21e1453c1e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nztype</name>
+      <type>Main</type>
+      <value>danger</value>
+      <webElementGuid>035a3c76-ef28-4941-a79c-42c883e7581a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nzpopconfirmtitle</name>
+      <type>Main</type>
+      <value>Anda yakin akan menghapus role ini?</value>
+      <webElementGuid>63741a97-993b-47a8-bfb9-c342f249bbc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nzpopconfirmplacement</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>5df199b9-53d0-4c02-8502-9332dd71a0db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-ml-10 ant-btn ant-btn-danger ng-star-inserted ant-tooltip-open</value>
+      <webElementGuid>da18c889-f207-4695-af17-ae669cca36ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hapus </value>
+      <webElementGuid>a609f723-de41-4fa0-a22c-39978d0cfa73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-role-management-detail[@class=&quot;ng-star-inserted&quot;]/nz-card[@class=&quot;kt-mb-20 ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-head ng-star-inserted&quot;]/div[@class=&quot;ant-card-head-wrapper&quot;]/div[@class=&quot;ant-card-extra ng-star-inserted&quot;]/button[@class=&quot;kt-ml-10 ant-btn ant-btn-danger ng-star-inserted ant-tooltip-open&quot;]</value>
+      <webElementGuid>75351389-caa3-4e5f-afc7-d54edb4c29bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
+      <webElementGuid>7c4dfc53-ab4f-4a45-b6ba-f8f7f85c9951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rolebaguss - rolebaguss'])[1]/following::button[2]</value>
+      <webElementGuid>fbb5b173-70aa-423d-a821-933effd8370a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permission'])[1]/preceding::button[1]</value>
+      <webElementGuid>75200d42-a4e8-45c3-b11a-573fad8b29aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>a72950c3-9428-4753-bda5-7f4c99cf6f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Hapus ' or . = ' Hapus ')]</value>
+      <webElementGuid>6ce8b2db-cba2-4f6a-9836-d61ac004c0c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>failedWrongEmailFormat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7ca166a-e10f-4a4d-87ab-49503906579b</testCaseGuid>
+</TestCaseEntity>

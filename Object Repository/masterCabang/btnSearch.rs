@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnSearch</name>
+   <tag></tag>
+   <elementGuidId>81dac9f7-8ec0-423d-a5fe-b3b6f23ea23c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Data Cabang'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-input-search-button.ant-btn-icon-only.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24797145-5b34-4095-bba5-6fc0203d5c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nztype</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>4c21b5fe-6d8e-4756-adc9-f807b8209e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-input-search-button ant-btn-icon-only ng-star-inserted</value>
+      <webElementGuid>f1c6fe29-aeac-4a9b-8377-e0f6f5569fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-master-plant-index[@class=&quot;ng-star-inserted&quot;]/nz-page-header[@class=&quot;ant-page-header ant-page-header-ghost has-breadcrumb ant-page-header-compact&quot;]/nz-page-header-content[@class=&quot;ant-page-header-content&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;content-action&quot;]/nz-input-group[@class=&quot;ant-input-search-enter-button ant-input-search ant-input-group-wrapper cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group ng-star-inserted&quot;]/span[@class=&quot;ant-input-group-addon ng-star-inserted&quot;]/button[@class=&quot;ant-btn ant-input-search-button ant-btn-icon-only ng-star-inserted&quot;]</value>
+      <webElementGuid>2530edb3-ebc9-4380-b28d-737283cba4ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Data Cabang'])[1]/following::button[1]</value>
+      <webElementGuid>f811078e-d504-4ab9-a465-41c6d089b2e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[2]/following::button[1]</value>
+      <webElementGuid>38b1fc24-5400-4988-9974-4bcc6fc85b19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Cabang'])[1]/preceding::button[1]</value>
+      <webElementGuid>b9f0ee71-dfcb-40ea-a21d-df749761a16b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Cabang'])[1]/preceding::button[2]</value>
+      <webElementGuid>a60ec905-9324-44fe-ab99-3979d5a915f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>222589cf-5633-469a-bda2-208d6c9284ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

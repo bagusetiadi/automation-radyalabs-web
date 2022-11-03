@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>successCreateCabangWithoutPenanggungJawabAndEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b48f532e-29d6-4baa-8c0e-f7615bd94218</testCaseGuid>
+</TestCaseEntity>

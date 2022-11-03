@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkSelisih</name>
+   <tag></tag>
+   <elementGuidId>a67b8814-cf70-4ef6-8ad3-25a92f8e09c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[33]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>aed70dff-97ff-4767-a4f5-1404b9ea3d6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>a5a5f385-799f-41e7-a6cc-1bf049eeeaad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>839bc5d2-0f0c-483b-8d92-a3bddb3209c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-role-management-form[@class=&quot;ng-star-inserted&quot;]/nz-spin[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container ng-star-inserted&quot;]/nz-card[@class=&quot;kt-mt-10 kt-mb-20 ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-row ng-star-inserted&quot;]/div[@class=&quot;kt-mb-30 pr-10 ant-col ant-col-24 ant-col-md-12 ant-col-lg-12 ng-star-inserted&quot;]/div[@class=&quot;kt-mb-20 ant-row&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/label[@class=&quot;ant-checkbox-wrapper ng-untouched ng-pristine ng-valid&quot;]/span[@class=&quot;ant-checkbox&quot;]/input[@class=&quot;ant-checkbox-input ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>dfbcd666-c683-4e90-b142-c7ca1efebdbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[33]</value>
+      <webElementGuid>29cba173-73b5-4332-8855-e9a633abf7c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/label/span/input</value>
+      <webElementGuid>88bac8c7-0fe7-4fba-a815-be76da2bcd19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>4fca65c9-777c-4dc1-84f4-72df6cc789fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
